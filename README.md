@@ -22,7 +22,7 @@ The plots above show that gender disparity among states, when considering candid
 Next, we will analyze the racial distribution among candidates. In order to do that, we must acquire the data on the race distribution for the Brazilian population. This data is the official data collected from IBGE (Brazilian Institute of Geography and Statistics) and can be found [here](https://en.wikipedia.org/wiki/Race_and_ethnicity_in_Brazil). Below are the charts demonstrating the racial distribution among candidates for all roles and for each role separately in both absolute and relative terms, as well as a specific chart showing the proportional distribution for the entire population.
 
 <img src="plots/brazil_race_count.png" alt="drawing" width="1000" height="300"/>
-<img src="plots/brazil_race_dist.png" alt="drawing" width="1000" height="310"/>
+<img src="plots/brazil_race_dist.png" alt="drawing" width="900" height="320"/>
 
 As can be seen above, the racial distribution for all candidates doesn't seem to diverge much from that of the population. But this is not true when looking at candidates for mayor: 61.3% of them are white, while only 45% of the entire population being self-declared as white. Browns, on the other hand, represent only 32% of the candidate pool for this role while composing 43.4% of the population. Blacks are also under-represented, being only 5.12% of the total candidates for Mayor while forming roughly double that proportion (10.1%) of the population.
 
